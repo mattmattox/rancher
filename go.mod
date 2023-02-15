@@ -92,9 +92,9 @@ require (
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.48.0
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.15.0
+	github.com/prometheus/common v0.26.0
 	github.com/rancher/aks-operator v1.0.1-rc18
 	github.com/rancher/apiserver v0.0.0-20210818221223-fb33444dfae8
 	github.com/rancher/channelserver v0.5.1-0.20210618172430-5cbefd383369
